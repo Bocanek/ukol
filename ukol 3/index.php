@@ -1,3 +1,4 @@
+ahoj
 <?php 
 
 session_start();
